@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\gorsel oynatma\gorsel oynatma\bin\Debug\gorsel oynatma.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\gorsel oynatma\gorsel oynatma\bin\Debug\gorsel oynatma.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\gorsel oynatma\gorsel oynatma\bin\Debug\gorsel oynatma.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\gorsel oynatma\gorsel oynatma\obj\Debug\gorsel oynatma.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\gorsel oynatma\gorsel oynatma\obj\Debug\gorsel oynatma.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\gorsel oynatma\gorsel oynatma\obj\Debug\gorsel_oynatma.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\gorsel oynatma\gorsel oynatma\obj\Debug\gorsel_oynatma.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\gorsel oynatma\gorsel oynatma\obj\Debug\gorsel oynatma.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\gorsel oynatma\gorsel oynatma\obj\Debug\gorsel oynatma.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\gorsel oynatma\gorsel oynatma\obj\Debug\gorsel oynatma.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\gorsel oynatma\gorsel oynatma\obj\Debug\gorsel oynatma.pdb
